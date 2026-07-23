@@ -346,10 +346,10 @@ to build an intelligent surveillance system capable of identifying abnormal crow
 
 # Authors
 
+- Shlok Pastagia
 - Avi Jain
-- Patel Yash Dharmendrabhai
-- Pastagia Shlok Swetalkumar
-- Sharma Ishan Vijay
+- Yash Patel 
+- Ishan Sharma
 - Khush N Patel
 - Sachin Meena
 
